@@ -38,5 +38,4 @@ The trained model was able to accurately predict keypoints on unseen images, suc
 - Visualizing model predictions to evaluate performance
 
 ## 📸 Sample Output
-<img src='images/key_pts_example.png' width=50% height=50%/>
-*(Add sample images with keypoints overlay if possible)*
+<img src='images/key_pts_example.png' width=100% height=100%/>
